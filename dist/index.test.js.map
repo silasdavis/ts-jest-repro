@@ -1,0 +1,1 @@
+{"version":3,"file":"index.test.js","sourceRoot":"","sources":["../src/index.test.ts"],"names":[],"mappings":";;;AAAA,iCAA6B;AAE7B,QAAQ,CAAC,OAAO,EAAC;IACf,IAAI,CAAC,KAAK,EAAE;;YACV,YAAI,EAAE,CAAA;;;SACP,CAAC,CAAA;AACJ,CAAC,CAAC,CAAA","sourcesContent":["import {blah} from \"./index\";\n\ndescribe('tests',() => {\n  test('foo', async () => {\n    blah()\n  })\n})\n"]}
